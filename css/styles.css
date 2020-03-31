@@ -1,0 +1,10 @@
+#formOne{
+  margin-top: 30px;
+}
+
+#letter{
+  display:none;
+  margin-top: 75px;
+  border-radius: 1%;
+  text-indent: 20px;
+}
