@@ -6,7 +6,7 @@
 
 ## Description
 
-_A page which screams back to you_
+_A creates a letter from a form_
 ## Setup/Installation Requirements
 
 _clone repo and open the .html file in a browser._
